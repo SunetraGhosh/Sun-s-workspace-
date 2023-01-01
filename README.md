@@ -1,2 +1,2 @@
-#Sun's Workspace
-sem1 computer project
+# Student database
+Sem1 Computer Project
