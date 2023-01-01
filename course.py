@@ -113,4 +113,4 @@ def courseStatistics(course_id):
     df = pandas.DataFrame.from_dict(letter_counts, orient='index')
     df.plot(kind='bar')
     matplotlib.pyplot.show()
-Foo
+
